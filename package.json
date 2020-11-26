@@ -1,0 +1,24 @@
+{
+  "name": "nodefinal",
+  "version": "0.0.1",
+  "description": "use Express, final project of App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimonMJC/NodeFinal.git"
+  },
+  "author": "simon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimonMJC/NodeFinal/issues"
+  },
+  "homepage": "https://github.com/SimonMJC/NodeFinal#readme",
+  "dependencies": {
+    "mysql2": "2.2.5",
+    "sequelize": "6.3.5",
+    "sequelize-cli": "6.2.0"
+  }
+}
